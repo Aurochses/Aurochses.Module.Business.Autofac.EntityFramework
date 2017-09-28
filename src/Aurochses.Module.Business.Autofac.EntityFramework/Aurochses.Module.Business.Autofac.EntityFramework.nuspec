@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Aurochses.Module.Business.Autofac.EntityFramework</id>
+    <version>1.0.0</version>
+    <authors>Aurochses</authors>
+    <copyright>Aurochses 2017</copyright>
+    <description>Library for using Autofac in Business modules with Entity Framework.</description>
+    <licenseUrl>https://github.com/Aurochses/Aurochses.Module.Business.Autofac.EntityFramework/blob/master/LICENSE.txt</licenseUrl>
+    <iconUrl>https://www.gravatar.com/avatar/cb5925a77e502401f95bf2738b123994?s=64</iconUrl>
+    <projectUrl>https://github.com/Aurochses/Aurochses.Module.Business.Autofac.EntityFramework</projectUrl>
+    <tags>Module Business Autofac EntityFramework</tags>
+    <dependencies>
+      <dependency id="Autofac" version="4.6.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\Aurochses.Module.Business.Autofac.EntityFramework.dll" target="lib\net461" />
+    <file src="bin\$configuration$\Aurochses.Module.Business.Autofac.EntityFramework.xml" target="lib\net461" />
+  </files>
+</package>
