@@ -6,6 +6,7 @@ Aurochses Module Business Autofac EntityFramework is a library for using Autofac
 
 [![NuGet](https://img.shields.io/nuget/v/Aurochses.Module.Business.Autofac.EntityFramework.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Module.Business.Autofac.EntityFramework)
 [![NuGet](https://img.shields.io/nuget/dt/Aurochses.Module.Business.Autofac.EntityFramework.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Module.Business.Autofac.EntityFramework)
+[![NuGet Status](http://nugetstatus.com/Aurochses.Module.Business.Autofac.EntityFramework.png)](http://nugetstatus.com/packages/Aurochses.Module.Business.Autofac.EntityFramework)
 
 ## Builds
 

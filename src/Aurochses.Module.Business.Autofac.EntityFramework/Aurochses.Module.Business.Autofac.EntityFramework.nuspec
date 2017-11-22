@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Aurochses.Module.Business.Autofac.EntityFramework</id>
-    <version>1.2.0</version>
+    <version>2.0.0</version>
     <authors>Aurochses</authors>
     <copyright>Aurochses 2017</copyright>
     <description>Library for using Autofac in Business modules with Entity Framework.</description>
@@ -11,7 +11,7 @@
     <projectUrl>https://github.com/Aurochses/Aurochses.Module.Business.Autofac.EntityFramework</projectUrl>
     <tags>Module Business Autofac EntityFramework</tags>
     <dependencies>
-      <dependency id="Autofac" version="4.6.1" />
+      <dependency id="Autofac" version="4.6.2" />
     </dependencies>
   </metadata>
   <files>
